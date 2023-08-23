@@ -1,1 +1,1 @@
-# EasyCreatte
+# EasyCreate
